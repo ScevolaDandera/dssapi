@@ -4,9 +4,9 @@ API URL: https://dssapi.nodescave.com
  
 FUNCTIONS
 
-/diseases
-param: none
-Returns a list diseases grouped by diseasecode
+<h3>/diseases</h3>
+<h4>param: none</h4>
+<p>Returns a list diseases grouped by diseasecode</p>
 
 /locations
 param: none
