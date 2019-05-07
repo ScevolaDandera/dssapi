@@ -8,7 +8,7 @@ FUNCTIONS
     <li>
     <h3>/diseases</h3>
     <h4>param: none</h4>
-    <p>Returns a list diseases grouped by diseasecode</p>
+    <p>Returns a list diseases grouped by DiseaseCode</p>
     </li>
     <li>
     <h3>/locations</h3>
