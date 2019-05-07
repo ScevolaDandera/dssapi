@@ -1,0 +1,19 @@
+.idea
+.DS_Store
+.sass-cache
+Thumbs.db     # [1]
+ehthumbs.db   # [1]
+Desktop.ini   # [2]
+$RECYCLE.BIN  # [3]
+
+# ----------------------------
+# Packaging
+# ----------------------------
+
+logs
+php_errorlog
+*.log
+npm-debug.log*
+node_modules
+yarn.lock
+package-lock.json
