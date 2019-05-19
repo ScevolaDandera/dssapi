@@ -30,4 +30,10 @@ FUNCTIONS
     <h4>param: days //integer</h4>
     <p>Returns array of patients per day for last request amount of days</p>
     </li>
+        <li>
+    <h3>/compareyears</h3>
+    <h4>param: year1</h4>
+    <h4>param2: year2</h4>
+    <p>Returns array of patients per month for the requested years</p>
+    </li>
 </ul>
